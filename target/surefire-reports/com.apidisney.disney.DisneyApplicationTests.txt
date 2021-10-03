@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.apidisney.disney.DisneyApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 11.063 s - in com.apidisney.disney.DisneyApplicationTests
