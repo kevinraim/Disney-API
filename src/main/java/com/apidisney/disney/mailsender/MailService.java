@@ -27,7 +27,7 @@ public class MailService {
 		    Content content = new Content("text/plain", "Welcome to Diseny, new user, mi name is Kevin! I'm very happy to meet you, hope you like my API");
 		    Mail mail = new Mail(from, subject, to, content);
 		
-		    SendGrid sg = new SendGrid("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");
+		    SendGrid sg = new SendGrid("Z2ZNsitP-EHixVM8l8sgNKffWazdANliRT9xXHU4ZG4"); // For security the token is not complete
 		    Request request = new Request();
 		    try {
 		      request.setMethod(Method.POST);
